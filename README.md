@@ -1,4 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there,+I'm+Kirill)](https://git.io/typing-svg)
-<br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Data+Engineer;ETL/ELT+Developer)](https://git.io/typing-svg)
+<div align="center">
 
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=1000&color=28C76F&center=true&vCenter=true&width=600&lines=Hello+there%2C+I'm+Kirill" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=28C76F&center=true&vCenter=true&width=600&lines=Data+Engineer+%2F+ETL+Developer" alt="Typing SVG" />
+
+<br/>
