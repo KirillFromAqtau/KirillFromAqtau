@@ -85,15 +85,6 @@ Data Engineer with a solid engineering background in the energy sector. Focused 
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KirillFromAqtau&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="Kirill's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirillFromAqtau&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="175" alt="Most Used Languages" />
-</div>
-
----
-
 ### 📬 Contact
 
 * **LinkedIn:** [linkedin.com/in/kirill-knyazev](https://linkedin.com/in/kirill-knyazev)
